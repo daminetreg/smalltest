@@ -9,5 +9,6 @@ int main ( int argc, char** argv) {
   banana();
   banana();
   banana();
+  banana();
   return 0;
 }
