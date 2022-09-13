@@ -1,3 +1,4 @@
 {
   "platform" : ["Boost::filesystem"]
+  , "cpp-pre/json" : {}
 }
