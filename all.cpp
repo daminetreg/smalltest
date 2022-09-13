@@ -4,4 +4,6 @@
 void banana() {
   std::cout << "boom" /*<< boost::filesystem::current_path()*/ << std::endl;
   function();
+  function();
+  function();
 }
